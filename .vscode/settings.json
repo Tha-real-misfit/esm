@@ -1,0 +1,41 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": false
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "cSpell.words": [
+    "Ashleigh",
+    "ashv",
+    "autofixer",
+    "Bolte",
+    "fontsource",
+    "Mackay",
+    "Membera",
+    "Memberb",
+    "Memberc",
+    "Memberd",
+    "Membere",
+    "Memberf",
+    "Memberg",
+    "Memberh",
+    "Ooops",
+    "Personalised",
+    "Photoshop",
+    "Swal",
+    "sweetalert",
+    "Swiper",
+    "sxro",
+    "tailwindcss",
+    "tshirt",
+    "uuidv",
+    "Vyau"
+  ]
+}
